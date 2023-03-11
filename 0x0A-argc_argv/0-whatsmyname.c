@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - point of entry 
+ * main - point of entry
  * Description: prints out the name of the program
  * @argc: number of command line arguements
  * @argv: array of the command line arguements
