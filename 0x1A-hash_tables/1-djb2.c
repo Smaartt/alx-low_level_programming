@@ -9,7 +9,7 @@
 ulint __hash_djb2(const unsigned char *str)
 {
 	ulint hash;
-iiii	int c;
+	int c;
 
 	hash = 5381;
 	for (; (c = *str++);)
